@@ -1,0 +1,28 @@
+{
+  "files": {
+    "main.css": "/polkabtc.io/static/css/main.bdd3cb36.chunk.css",
+    "main.js": "/polkabtc.io/static/js/main.02d9ea8d.chunk.js",
+    "main.js.map": "/polkabtc.io/static/js/main.02d9ea8d.chunk.js.map",
+    "runtime-main.js": "/polkabtc.io/static/js/runtime-main.fdcf2853.js",
+    "runtime-main.js.map": "/polkabtc.io/static/js/runtime-main.fdcf2853.js.map",
+    "static/css/2.d34346ea.chunk.css": "/polkabtc.io/static/css/2.d34346ea.chunk.css",
+    "static/js/2.ac01b8d3.chunk.js": "/polkabtc.io/static/js/2.ac01b8d3.chunk.js",
+    "static/js/2.ac01b8d3.chunk.js.map": "/polkabtc.io/static/js/2.ac01b8d3.chunk.js.map",
+    "index.html": "/polkabtc.io/index.html",
+    "precache-manifest.49e91a019e8378fd1965622a0e489761.js": "/polkabtc.io/precache-manifest.49e91a019e8378fd1965622a0e489761.js",
+    "service-worker.js": "/polkabtc.io/service-worker.js",
+    "static/css/2.d34346ea.chunk.css.map": "/polkabtc.io/static/css/2.d34346ea.chunk.css.map",
+    "static/css/main.bdd3cb36.chunk.css.map": "/polkabtc.io/static/css/main.bdd3cb36.chunk.css.map",
+    "static/js/2.ac01b8d3.chunk.js.LICENSE.txt": "/polkabtc.io/static/js/2.ac01b8d3.chunk.js.LICENSE.txt",
+    "static/media/PolkaBTC_white.svg": "/polkabtc.io/static/media/PolkaBTC_white.6897aab9.svg",
+    "static/media/custom.css": "/polkabtc.io/static/media/background.1b810141.png",
+    "static/media/web3foundation_grants_badge_black.png": "/polkabtc.io/static/media/web3foundation_grants_badge_black.f20a9608.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.fdcf2853.js",
+    "static/css/2.d34346ea.chunk.css",
+    "static/js/2.ac01b8d3.chunk.js",
+    "static/css/main.bdd3cb36.chunk.css",
+    "static/js/main.02d9ea8d.chunk.js"
+  ]
+}
