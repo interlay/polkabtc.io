@@ -1,0 +1,84 @@
+
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8" />
+    <link rel="icon" href="%PUBLIC_URL%/favicon.ico" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <meta name="theme-color" content="#000000" />
+    <meta
+      name="description"
+      content="PolkaBTC: Trustless and open DeFi access for your Bitcoin."
+    />
+
+    <link rel="stylesheet" href="/assets/custom.css">
+    <link rel="stylesheet" href="/assets/custom-bootstrap.css">
+
+    <title>PolkaBTC</title>
+  </head>
+  <body>
+
+    <div className="main d-flex flex-column min-vh-100">
+    <div>
+        <section className="jumbotron min-vh-100 text-center polkabtc-background no-margin-bottom">
+            <div className="container mt-5">
+                <Link to="/">
+                    <Image src={PolkaBTCImg} width="256"></Image>
+                </Link>
+                <h1 style={{ color: "white" }} className="mt-3">
+                    PolkaBTC: Trustless Bitcoin on Polkadot
+              </h1>
+                <h4 style={{ color: "white" }} className="mt-3">
+                    More infos soon...</h4>
+            </div>
+        </section>
+    </div>
+</div>
+
+
+<footer className="footer mt-5 flex-fill fixed-bottom">
+    <Container>
+        <div className="row">
+            <div className="col-md-12 float-md-left">
+                <h3 style={{ fontSize: "1.5em", color: "white" }}  className="lead mt-3">PolkaBTC is built and powered by   &nbsp; &nbsp; &nbsp; &nbsp;
+        <a href="https://www.interlay.io/" target="__blank"><Image src={interlayImg} height="30em"></Image></a>
+        &nbsp; &nbsp; &nbsp; &nbsp;
+                <a href="https://web3.foundation/" target="__blank"><Image src={web3FoundationImg} height="40rem"></Image></a>
+                </h3>
+            </div>
+        </div>
+        <div className="row">
+            <div className="col-md-12 float-md-left">
+            <h4 style={{ fontSize: "1.2em", color: "white" }} className="lead">
+                <a  rel="noopener noreferrer" title="" data-placement="bottom"
+                    href="https://t.me/interlay" target="_blank"
+                    data-original-title="Join our Telegram channel">
+                    <FaTelegramPlane></FaTelegramPlane>
+                </a>
+                &nbsp; &nbsp; &nbsp;
+                <a rel="noopener noreferrer" title="" data-placement="bottom"
+                    href="https://medium.com/Interlay" target="_blank" data-original-title="Follow us on Medium">
+                    <FaMediumM></FaMediumM>
+                </a>
+                &nbsp; &nbsp; &nbsp;
+                    <a rel="noopener noreferrer" title="" data-placement="bottom"
+                    href="https://github.com/interlay" target="_blank" data-original-title="Follow us on Github">
+                    <FaGithub></FaGithub>
+                </a>
+                &nbsp; &nbsp; &nbsp;
+                <a rel="noopener noreferrer" title="" data-placement="bottom"
+                    href="https://twitter.com/interlayHQ" target="_blank"
+                    data-original-title="Follow us on Twitter">
+                    <FaTwitter></FaTwitter>
+                </a>
+                </h4>
+            </div>
+        </div>
+        <div className="row">
+            <div className="col-md-12 float-md-left">
+                <h3 style={{ fontSize: "0.8em", color: "white" }} className="lead mt-3">&copy; 2020 Interlay. All Rights Reserved
+                </h3>
+            </div>
+        </div>
+    </Container>
+</footer>
